@@ -1,1 +1,1 @@
-# with_CNN_handwritten_digit_detection
+# Handwritten Digit Detection By Convolutional Neural Networks
